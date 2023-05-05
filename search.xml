@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>分类</title>
-      <link href="/post/b32f0afe.html"/>
-      <url>/post/b32f0afe.html</url>
+      <title>网站使用指南</title>
+      <link href="/post/e5ca3c6d.html"/>
+      <url>/post/e5ca3c6d.html</url>
       
         <content type="html"><![CDATA[<h2 id="这是一篇简短的网站介绍"><a href="#这是一篇简短的网站介绍" class="headerlink" title="这是一篇简短的网站介绍"></a>这是一篇简短的网站介绍</h2><p>1.本网站开发的时间在2022年12月3号 也算是自己打造的个人网站吧<br>2.本网站以后会收集各种新技术的api接口 同时用二级域名解析搭建每一个技术网站镜像<br>3.这些新技术网站皆以本网站为主网站做域名跳转 每个镜像网站解析二级域名并使用该二级域名<br>4.因此本网站采用的是一级域名 其余网站采用的是二级域名<br>注意：请认准 zhangmuzhi1203 这是本网站及所有镜像网站域名的核心部分<br>最后感谢各位使用本网站 我们的宗旨是希望技术无边界 让更多的普通人去接触技术带来的便利</p>]]></content>
       
       
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网站 </tag>
+            
+        </tags>
       
     </entry>
     
